@@ -1,0 +1,17 @@
+bunsen1-dark-theme (1.0-3) unstable; urgency=medium
+
+  * Rename the package to bunsen1-dark-theme, heeding the wishes of the author
+
+ -- Jens Oliver John <dev@2ion.de>  Fri, 20 Feb 2015 17:10:40 +0100
+
+crunchy-dark-grey-theme (1.0-2) unstable; urgency=medium
+
+  * Fixed Source: field in debian/copyright
+
+ -- Jens Oliver John <dev@2ion.de>  Thu, 19 Feb 2015 20:07:00 +0100
+
+crunchy-dark-grey-theme (1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Jens Oliver John <dev@2ion.de>  Thu, 19 Feb 2015 19:27:05 +0100
