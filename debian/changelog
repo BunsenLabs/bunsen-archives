@@ -1,3 +1,10 @@
+bunsen1-dark-theme (1.1-1) unstable; urgency=medium
+
+  * New upstream release
+  * Modify README with the upstream developer's consent
+
+ -- Jens Oliver John <dev@2ion.de>  Sat, 21 Feb 2015 20:09:24 +0100
+
 bunsen1-dark-theme (1.0-3) unstable; urgency=medium
 
   * Rename the package to bunsen1-dark-theme, heeding the wishes of the author
