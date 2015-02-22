@@ -6,7 +6,7 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Bunsen1-dark
-MetacityTheme=Bunsen1-dark
+MetacityTheme=
 IconTheme=
 CursorTheme=
 ButtonLayout=:minimize,maximize,close
