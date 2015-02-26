@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
 Name=Bunsen1-dark
-Comment=
+Comment=Bunsen1-dark theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=
+GtkTheme=Bunsen1-dark
 MetacityTheme=
 IconTheme=
 CursorTheme=
