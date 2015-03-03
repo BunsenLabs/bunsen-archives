@@ -1,0 +1,20 @@
+Source: bunsen1-theme
+Section: x11
+Priority: optional
+Maintainer: Jens Oliver John <dev@2ion.de>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: http://crunchbang.org/forums/viewtopic.php?id=31510
+
+Package: bunsen1-theme
+Architecture: all
+Depends: ${misc:Depends}
+Suggests: gtk2-engines-murrine, libgtk-3-0, openbox
+Description: A dark GTK/Openbox theme for #! Waldorf and Debian Jessie
+ Made by hhh from the Crunchbang forums
+
+Package: bunsen1-wallpapers
+Architecture: all
+Suggests: bunsen1-theme, bunsen1-dark-theme
+Description: Accompanying wallpapers to the Bunsen1 GTK theme
+  Made by hhh from the Crunchbang forums
