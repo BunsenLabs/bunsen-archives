@@ -1,3 +1,9 @@
+bunsen1-theme (1.0-2) unstable; urgency=medium
+
+  * Exclude docs from theme directory when installing
+
+ -- Jens Oliver John <dev@2ion.de>  Tue, 03 Mar 2015 13:21:21 +0100
+
 bunsen1-theme (1.0-1) unstable; urgency=low
 
   * Initial release
