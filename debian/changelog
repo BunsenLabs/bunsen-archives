@@ -1,3 +1,10 @@
+bunsen1-theme (1.0-3) unstable; urgency=medium
+
+  * Fix lintian warnings description-synopsis-starts-with-article,
+    executable-not-elf-or-script
+
+ -- Jens Oliver John <dev@2ion.de>  Wed, 04 Mar 2015 19:09:37 +0100
+
 bunsen1-theme (1.0-2) unstable; urgency=medium
 
   * Exclude docs from theme directory when installing

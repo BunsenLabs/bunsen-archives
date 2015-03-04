@@ -10,7 +10,7 @@ Package: bunsen1-theme
 Architecture: all
 Depends: ${misc:Depends}
 Suggests: gtk2-engines-murrine, libgtk-3-0, openbox
-Description: A dark GTK/Openbox theme for #! Waldorf and Debian Jessie
+Description: GTK/Openbox theme for #! Waldorf and Debian Jessie
  Made by hhh from the Crunchbang forums
 
 Package: bunsen1-wallpapers
