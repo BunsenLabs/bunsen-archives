@@ -1,0 +1,8 @@
+bunsen-user-setup
+=================
+
+This is a bash script to copy default user configuration files
+into a new user's home directory, 
+and perform various other small operations.
+
+Based on cb-slim from CrunchBang.
