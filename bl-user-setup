@@ -16,7 +16,7 @@ rm skel.tar.gz
     rpl -q 'REPLACEME' $USER /home/$USER/.gtk-bookmarks > /dev/null 2>&1
 }
 
-ln -s /usr/share/backgrounds /home/$USER/images/wallpapers/shared
+ln -s /usr/share/backgrounds /home/$USER/Pictures/wallpapers/shared
 
 mkdir -p /home/$USER/.config/bunsen # this should already exist
 touch /home/$USER/.config/bunsen/bl-setup
