@@ -1,6 +1,11 @@
 BunsenLabs Window Manager Hacks
 ===============================
 
+This package is now merged into bunsen-utilities.
+Please post any issues or pull requests there.
+
+#############################################################
+
 Scripts for adding hot corners and aero style window snapping
 to Openbox.
 Based on cb-wmhacks, written for CrunchBang Linux.
