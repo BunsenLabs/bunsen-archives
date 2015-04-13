@@ -1,6 +1,11 @@
 bunsen-user-setup
 =================
 
+This package is now merged into bunsen-utilities.
+Please post any issues or pull requests there.
+
+##############################################################
+
 This is a bash script to copy default user configuration files
 into a new user's home directory, 
 and perform various other small operations.
