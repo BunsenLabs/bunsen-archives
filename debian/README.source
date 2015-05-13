@@ -1,0 +1,10 @@
+bunsen1-dark-theme for Debian
+-----------------------------
+
+Packaged using the sources at http://crunchbang.org/forums/viewtopic.php?id=31510.
+
+The package borrows code from the CrunchBang 9.04 theme, the Greybird
+GTK+ theme, and the current Xfce default notification theme.
+
+ -- Jens Oliver John <dev@2ion.de>  Thu, 19 Feb 2015 19:27:05 +0100
+
