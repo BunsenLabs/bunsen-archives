@@ -1,0 +1,42 @@
+bunsen-user-setup (0.1-2) unstable; urgency=low
+
+  * Change install path of bl-user-setup to /usr/lib/bunsen/bunsen-user-setup/
+
+ -- John Crawley <john@rafflesnagoya.com>  Fri, 06 Mar 2015 18:17:57 +0900
+
+bunsen-user-setup (0.1-1) unstable; urgency=low
+
+  * Remove VLC fix, adapt for use with lightdm in BunsenLabs.
+  * Switch to dpkg-source 3.0 (quilt) format.
+
+ -- John Crawley <john@rafflesnagoya.com>  Wed, 04 Mar 2015 15:40:53 +0900
+
+cb-slim (0.05) unstable; urgency=low
+
+  * Add fix for VLC in live sessions.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Thu, 10 Jan 2013 18:34:45 +0000
+
+cb-slim (0.04) unstable; urgency=low
+
+  * Remove slim.conf and dpkg-divert's.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Thu, 27 Sep 2012 10:17:22 +0100
+
+cb-slim (0.03) unstable; urgency=low
+
+  * Update to always add dpkg-divert.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Thu, 27 Sep 2012 09:05:31 +0100
+
+cb-slim (0.02) unstable; urgency=low
+
+  * Add slim.conf file with dpkg-divert.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Wed, 26 Sep 2012 22:02:49 +0100
+
+cb-slim (0.01) unstable; urgency=low
+
+  * Initial release.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Mon, 16 Apr 2012 11:28:48 +0100
