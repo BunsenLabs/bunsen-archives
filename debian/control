@@ -1,0 +1,20 @@
+Source: bunsen-wmhacks
+Section: misc
+Priority: extra
+Maintainer: John Crawley <john@rafflesnagoya.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://github.com/BunsenLabs/bunsen-wmhacks
+Vcs-Git: https://github.com/BunsenLabs/bunsen-wmhacks.git
+Vcs-Browser: https://github.com/BunsenLabs/bunsen-wmhacks.git
+
+Package: bunsen-wmhacks
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, wmctrl, python, python-xlib, xdotool (>=1:2.20110530.1-3)
+Recommends: gmrun
+Description: BunsenLabs window manager hacks.
+ A script for adding hot corners and aero style window snapping
+ to Openbox. 
+ Based on cb-wmhacks, written for CrunchBang Linux
+ by Philip Newborough.
+
