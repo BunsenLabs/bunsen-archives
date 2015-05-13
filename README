@@ -1,0 +1,12 @@
+bunsen-lock
+=================
+
+This package is now merged into bunsen-utilities.
+Please post any issues or pull requests there.
+
+###################################################
+
+This is a bash wrapper script round xscreensaver 
+mainly to deal with complications in a live session. 
+
+Based on cb-lock from CrunchBang Linux.

@@ -1,0 +1,17 @@
+Source: bunsen-lock
+Section: misc
+Priority: extra
+Maintainer: John Crawley <john@rafflesnagoya.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://github.com/BunsenLabs/bunsen-lock
+Vcs-Git: https://github.com/BunsenLabs/bunsen-lock.git
+Vcs-Browser: https://github.com/BunsenLabs/bunsen-lock.git
+
+Package: bunsen-lock
+Architecture: all
+Depends: ${misc:Depends}, zenity, xscreensaver
+Description: BunsenLabs LiveCD screenlock hack.
+ Contains scripts for use with BunsenLabs Linux LiveCD.
+ Based on cb-lock written for CrunchBang Linux by Philip Newborough.
+

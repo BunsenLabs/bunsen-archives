@@ -1,0 +1,12 @@
+bunsen-lock (0.01-1) unstable; urgency=low
+
+  * Switch to dpkg-source 3.0 (quilt) format.
+  * Adjust naming for BunsenLabs.
+
+ -- John Crawley <john@rafflesnagoya.com>  Thu, 05 Mar 2015 17:08:19 +0900
+
+cb-lock (0.01) unstable; urgency=low
+
+  * Initial release.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Mon, 16 Apr 2012 11:28:48 +0100
