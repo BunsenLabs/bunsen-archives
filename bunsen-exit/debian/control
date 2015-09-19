@@ -1,7 +1,7 @@
 Source: bunsen-exit
 Section: misc
 Priority: extra
-Maintainer: John Crawley <john@rafflesnagoya.com>
+Maintainer: John Crawley <john@bunsenlabs.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 Homepage: https://github.com/BunsenLabs/bunsen-exit
@@ -12,6 +12,6 @@ Package: bunsen-exit
 Architecture: all
 Depends: ${misc:Depends}, python-gtk2, upower
 Description: Bunsen logout script.
- GUI logout/shutdown/restart/suspend script, 
+ GUI logout/shutdown/restart/suspend script,
  for systems using systemd.
  From cb-exit by Philip Newborough

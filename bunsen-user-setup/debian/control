@@ -1,7 +1,7 @@
 Source: bunsen-user-setup
 Section: misc
 Priority: extra
-Maintainer: John Crawley <john@rafflesnagoya.com>
+Maintainer: John Crawley <john@bunsenlabs.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 Homepage: https://github.com/BunsenLabs/bunsen-user-setup
@@ -12,6 +12,6 @@ Package: bunsen-user-setup
 Architecture: all
 Depends: ${misc:Depends}, rpl, tar, lightdm
 Description: BunsenLabs user setup script
- A script to copy user configuration files into the user's 
+ A script to copy user configuration files into the user's
  home directory, and perform other small operations.
  From cb-slim by Philip Newborough

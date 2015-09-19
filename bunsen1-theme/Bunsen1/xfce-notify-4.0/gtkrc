@@ -1,4 +1,4 @@
-# Bunsen1 by hhh (hsumen@post.com)
+# Bunsen1 by hhh (hsumen@bunsenlabs.org)
 # based on
 # Theme: waldorf Xfce4 notification theme
 # Description: A default theme for CrunchBang Waldorf
@@ -7,7 +7,7 @@
 # -------------------------------------------------------
 style "bunsen-notify-window"
 {
-    bg[NORMAL] = "#33393A" 
+    bg[NORMAL] = "#33393A"
     XfceNotifyWindow::border-color = "#e6e6e6"
     XfceNotifyWindow::border-radius = 0.0
     XfceNotifyWindow::border-width = 0
@@ -30,22 +30,22 @@ style "bunsen-notify-text"
 
 style "bunsen-notify-progressbar"
 {
-	xthickness   = 1
-	ythickness   = 1
+    xthickness   = 1
+    ythickness   = 1
 
-	fg[PRELIGHT] = "#000000"
-	bg[NORMAL]   = "#ffeeee"
-	bg[SELECTED] = "#808080"
+    fg[PRELIGHT] = "#000000"
+    bg[NORMAL]   = "#ffeeee"
+    bg[SELECTED] = "#808080"
 
-	GtkProgressBar::min-vertical-bar-width = 4
-	GtkProgressBar::min-horizontal-bar-height = 4
+    GtkProgressBar::min-vertical-bar-width = 4
+    GtkProgressBar::min-horizontal-bar-height = 4
 
-	engine "murrine" {
-		gradient_shades = {1.1,0.95,1.1,0.85}
-		contrast	= 0.5
-		border_shades	= { 0.9, 0.9 }
-		progressbarstyle    = 0
-	}
+    engine "murrine" {
+        gradient_shades = {1.1,0.95,1.1,0.85}
+        contrast    = 0.5
+        border_shades   = { 0.9, 0.9 }
+        progressbarstyle    = 0
+    }
 }
 
 widget_class "XfceNotifyWindow.*.GtkButton*" style "bunsen-notify-button"

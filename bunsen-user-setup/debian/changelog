@@ -2,14 +2,14 @@ bunsen-user-setup (0.1-2) unstable; urgency=low
 
   * Change install path of bl-user-setup to /usr/lib/bunsen/bunsen-user-setup/
 
- -- John Crawley <john@rafflesnagoya.com>  Fri, 06 Mar 2015 18:17:57 +0900
+ -- John Crawley <john@bunsenlabs.org>  Fri, 06 Mar 2015 18:17:57 +0900
 
 bunsen-user-setup (0.1-1) unstable; urgency=low
 
   * Remove VLC fix, adapt for use with lightdm in BunsenLabs.
   * Switch to dpkg-source 3.0 (quilt) format.
 
- -- John Crawley <john@rafflesnagoya.com>  Wed, 04 Mar 2015 15:40:53 +0900
+ -- John Crawley <john@bunsenlabs.org>  Wed, 04 Mar 2015 15:40:53 +0900
 
 cb-slim (0.05) unstable; urgency=low
 
